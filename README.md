@@ -12,7 +12,7 @@
 <br>
 <h2 align="left">Acerca de mí 😃</h2>
 <p align="left">
-¡Cómo están! 👋 soy Ingeniera en Sistemas conputacionales con experiencia como soporte de TI, analista de observabilidad y operaciones de TI, análisis da datos de tecnología; en mi última experiencia laboral trabajé en una consultora/implementadora de tecnologías donde pude desarrollarme en diferentes roles según la necesidad organizacional y esto me permitió conocer a más detalle el mundo de TI, la entrega de servicios y mantener la disponibilidad de los sistemas y mejora contínua.
+¡Cómo están! 👋 soy Ingeniera en Sistemas computacionales con experiencia como soporte de TI, analista de observabilidad y operaciones de TI, análisis de datos de tecnología; en mi última experiencia laboral trabajé en una consultora/implementadora de tecnologías donde pude desarrollarme en diferentes roles según la necesidad organizacional y esto me permitió conocer a más detalle el mundo de TI, la entrega de servicios y mantener la disponibilidad de los sistemas y mejora continua.
 
 Mi enfoque principal se centra en el análisis de métricas, logs, alertas y trazas, la validación de la disponibilidad y el performance de aplicaciones y servicios; reduciendo así el ruido operativo y elaborando reportes, documentación técnica, análisis post-incidente, coordinando con equipos técnicos y brindando soporte a la continuidad operativa.
 
