@@ -18,7 +18,7 @@ Mi enfoque principal se centra en el análisis de métricas, logs, alertas y tra
 
 He trabajado con plataformas de monitoreo y observabilidad, dashboards operativos y herramientas de análisis que permiten identificar fallos, reducir ruido operativo y asegurar el cumplimiento de SLA/SLO.
 
-📊 En mi tiempo libre hago proyectos de operaciones vividas en experiencias laborales pasadas. Mi objetivo es seguir aprendiendo y creciendo profesionalmente en tecnología. En lo personal, soy una persona proactiva, alegre, perseverante y analítica; me gusta enfatizar el trabajo en equipo.
+📊 En mi tiempo libre hago proyectos de operaciones vividas en experiencias laborales pasadas. Mi objetivo es mantener practica activa y seguir creciendo profesionalmente en tecnología. En lo personal, soy una persona proactiva, alegre, perseverante y analítica; me gusta el trabajo en equipo.
 
 Estoy subiendo aquí mis proyectos mientras sigo impulsando mi carrera. Si tienes alguna duda, interés en colaborar o una vacante, por qué no?, ¡no dudes en contactarme!
 </p>
@@ -27,40 +27,27 @@ Estoy subiendo aquí mis proyectos mientras sigo impulsando mi carrera. Si tiene
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" />
+    <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="36" height="36" alt="SQL" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="36" height="36" alt="Excel" />
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="36" height="36" alt="Power BI" />
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" height="36" alt="Power BI" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" alt="Python" />
-  </a>
-</p>
+ </p>
 
 <p align="left">
-
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/amazon-web-services.png"
+    <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"
          width="36" height="36" alt="AWS" />
   </a>
-
   <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/azure-1.png"
+    <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"
          width="36" height="36" alt="Azure" />
   </a>
-
   <!-- Dynatrace -->
   <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/monitor.png"
+    <img src="https://img.icons8.com/color/48/monitor.png](https://www.pngall.com/wp-content/uploads/17/Dynatrace-Symbol-Logo-PNG-thumb.png"
          width="36" height="36" alt="Dynatrace" />
   </a>
 
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/sql.png"
-         width="36"
